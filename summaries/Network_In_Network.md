@@ -20,6 +20,7 @@ This paper had a new take on how the conv filters are designed and how we map fe
 
 <p align="center">
   <img src="images/Network_In_Network_img1.png">
+  <br>Fig. Linear convolution layer
 </p>
 * It is hard to understand how the usual fully connected layers seen at the end of CNN architectures map to category information. They are blackboxes between the convolution layers and the classifier. They are also prone to overfitting and come with lots of parameters to train.
 
@@ -28,5 +29,6 @@ This paper had a new take on how the conv filters are designed and how we map fe
 * **MLP Convolution Layers**:  asdf asf sadf sadf sadf asdf sadf sadf 
 <p align="center">
   <img  src="images/Network_In_Network_img2.png">
+  <br>Fig. MLP conv layer
 </p>
- asdfasdfasdf
+ asdfasdfasdfasdff
