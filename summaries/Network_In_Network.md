@@ -15,17 +15,19 @@ This paper had a new take on how the convolution filters are designed and how we
 
 ### MLPConv
 
-Traditional CNN architectures use linear filters to do the convolution and extract features out of images. The early layers try to extract primitive features like lines, edges and corners, while the later layers build on early layers and extract higher level features like eyes, ears, nose etc. These are called latent features. Now, there can be variations in each of those features - there can be many different variations in eyes alone. A linear filter tries to draw straight lines to discriminate these features. Thus conventional CNN implicitly makes the assumption that the latent concepts are linearly separable. But a straight line may not always fit. Using a richer non linear function approximator can serve as a better feature extractor.
+Traditional CNN architectures use linear filters to do the convolution and extract features out of images. The early layers try to extract primitive features like lines, edges and corners, while the later layers build on early layers and extract higher level features like eyes, ears, nose etc. These are called latent features. Now, there can be variations in each of those features - there can be many different variations in eyes alone. A linear filter tries to draw straight lines to classify these features. Thus conventional CNN implicitly makes the assumption that the latent concepts are linearly separable. But a straight line may not always fit. Using a richer non linear function approximator can serve as a better feature extractor.
 
 <p align="center">
   <img src="images/Network_In_Network_img1.png">
   <br>Fig. Conventional linear convolution layer
 </p>
 
-This paper introduced the concept of having a neural network itself in place of a convolution filter. The input to this mini network would be the convolution, and the output would be the value of a neuron in the activation. Hence it does not alter the input/output characteristics of traditional filters. This mini network, called MLPconv,can then convolved over the input. The benifit of having such an arrangement are two fold:
+This paper introduced the concept of having a local Multilayer Perceptron itself in place of a convolution filter. The input to this mini network would be the convolution, and the output would be the value of a neuron in the activation. Hence it does not alter the input/output characteristics of traditional filters. This mini network, called MLPconv,can then convolved over the input. The benifit of having such an arrangement are two fold:
 
 * It is compatible with the backpropagation logic of neural nets, thus this fits well into existing architectures of CNNs
 * It can itself be a deep model leading to rich separation between latent features
+
+This increased the representational power of the network.
 
 <p align="center">
   <img  src="images/Network_In_Network_img2.png">
