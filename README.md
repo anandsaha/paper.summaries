@@ -1,4 +1,15 @@
-# Summary of papers I have read
+# Summary of papers I have read/plan to read
 
-* `[25-Oct-2017] [CLASSIFICATION]` [Going deeper with convolutions](summaries/Going_Deeper_With_Conv.md)
-* `[24-Oct-2017] [CLASSIFICATION]` [Network In Network](summaries/Network_In_Network.md) 
+
+### Training Deep Neural Nets
+
+* `TODO` SGDR: Stochastic Gradient Descent with Warm Restarts
+
+### Object Classification
+
+* [Deep Residual Learning for Image Recognition](http://teleported.in/posts/decoding-resnet-architecture/) (ResNet architecture)
+* `TODO` Going deeper with convolutions (Inceptionv1, GoogLeNet)
+* [Network In Network](summaries/Network_In_Network.md) (Precursor to Inception architecture)
+
+### Object Detection
+
