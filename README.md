@@ -35,3 +35,9 @@
 * `TODO` Semantic image segmentation with deep convolutional nets and fully connected CRFs, L. Chen et al.
 * `TODO` Learning hierarchical features for scene labeling (2013), C. Farabet et al.
 
+### Others
+
+These are good papers to read and does not need summarization.
+
+* A guide to convolution arithmetic for deep learning (2016), Vincent Dumoulin, Francesco Visin [pdf](https://arxiv.org/abs/1603.07285)
+
