@@ -20,7 +20,7 @@
 * `TODO` Return of the devil in the details: delving deep into convolutional nets (2014), K. Chatfield et al.
 * `TODO` OverFeat: Integrated recognition, localization and detection using convolutional networks (2013), P. Sermanet et al.
 * `TODO` Maxout networks (2013), I. Goodfellow et al.
-* [Network in network (2013), M. Lin et al.](summaries/Network_In_Network.md)
+* [Network in network (2013), M. Lin et al.](http://teleported.in/posts/network-in-network/)
 * `TODO` ImageNet classification with deep convolutional neural networks (2012), A. Krizhevsky et al.
 
 
