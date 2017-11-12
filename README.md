@@ -4,8 +4,10 @@
 
 ### Training Deep Neural Nets
 
-* `TODO` SGDR: Stochastic Gradient Descent with Warm Restarts
-* `TODO` Batch normalization: Accelerating deep network training by reducing internal covariate shift
+* `TODO` An Overview of Multi-Task Learning in Deep Neural Networks (2017), Sebastian Ruder [pdf](https://arxiv.org/abs/1706.05098)
+* `TODO` SGDR: Stochastic Gradient Descent with Warm Restarts (2016), Ilya Loshchilov, Frank Hutter [pdf](https://arxiv.org/abs/1608.03983)
+* `TODO` Cyclical Learning Rates for Training Neural Networks (2015), Leslie N. Smith [pdf](https://arxiv.org/abs/1506.01186)
+* `TODO` Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015), Sergey Ioffe, Christian Szegedy [pdf](https://arxiv.org/abs/1502.03167)
 
 ### Object Classification
 
