@@ -7,7 +7,9 @@
 * `TODO` An Overview of Multi-Task Learning in Deep Neural Networks (2017), Sebastian Ruder [pdf](https://arxiv.org/abs/1706.05098)
 * `TODO` SGDR: Stochastic Gradient Descent with Warm Restarts (2016), Ilya Loshchilov, Frank Hutter [pdf](https://arxiv.org/abs/1608.03983)
 * `TODO` Cyclical Learning Rates for Training Neural Networks (2015), Leslie N. Smith [pdf](https://arxiv.org/abs/1506.01186)
-* `TODO` Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015), Sergey Ioffe, Christian Szegedy [pdf](https://arxiv.org/abs/1502.03167)
+* `TODO` Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015), Ioffe, Szegedy [pdf](https://arxiv.org/abs/1502.03167)
+* `TODO` Dropout: A Simple Way to Prevent Neural Networks from Overfitting (2014), Srivastava et.al.
+* `TODO` Improving neural networks by preventing co-adaptation of feature detectors (2012), Hinton et. al.
 
 ### Object Classification
 
@@ -42,4 +44,4 @@
 These are good papers to read and does not need summarization.
 
 * A guide to convolution arithmetic for deep learning (2016), Vincent Dumoulin, Francesco Visin [pdf](https://arxiv.org/abs/1603.07285)
-
+* An overview of gradient descent optimization algorithms (2017), Ruder [pdf](https://arxiv.org/abs/1609.04747)
