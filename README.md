@@ -4,9 +4,8 @@
 
 ### Training Deep Neural Nets
 
-* `TODO` An Overview of Multi-Task Learning in Deep Neural Networks (2017), Sebastian Ruder [pdf](https://arxiv.org/abs/1706.05098)
 * `TODO` SGDR: Stochastic Gradient Descent with Warm Restarts (2016), Ilya Loshchilov, Frank Hutter [pdf](https://arxiv.org/abs/1608.03983)
-* `TODO` Cyclical Learning Rates for Training Neural Networks (2015), Leslie N. Smith [pdf](https://arxiv.org/abs/1506.01186)
+* [Cyclical Learning Rates for Training Neural Networks (2015), Leslie N. Smith](http://teleported.in/posts/cyclic-learning-rate/)
 * `TODO` Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015), Ioffe, Szegedy [pdf](https://arxiv.org/abs/1502.03167)
 * `TODO` Dropout: A Simple Way to Prevent Neural Networks from Overfitting (2014), Srivastava et.al.
 * `TODO` Improving neural networks by preventing co-adaptation of feature detectors (2012), Hinton et. al.
@@ -39,9 +38,26 @@
 * `TODO` Semantic image segmentation with deep convolutional nets and fully connected CRFs, L. Chen et al.
 * `TODO` Learning hierarchical features for scene labeling (2013), C. Farabet et al.
 
+### Image Segmentation
+
+* `TODO` DeepLab v3 (2017)
+* `TODO` Large Kernel Matters - Improve Semantic Segmentation by Global Convolutional Network (2017)
+* `TODO` PSPNet: Pyramid Scene Parsing Network (2016) 
+* `TODO` RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation (2016)
+* `TODO` DeepLab v2 (2016)
+* `TODO` Multi-Scale Context Aggregation by Dilated Convolutions (2015)
+* `TODO` SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation (2015)
+* `TODO` U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)
+* `TODO` Fully Convolutional Networks for Semantic Segmentation (2014)
+* `TODO` DeepLab v1 (2014)
+* `TODO` Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images (2012)
+* `TODO` Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials (2012)
+
 ### Others
 
 These are good papers to read and does not need summarization.
 
 * A guide to convolution arithmetic for deep learning (2016), Vincent Dumoulin, Francesco Visin [pdf](https://arxiv.org/abs/1603.07285)
 * An overview of gradient descent optimization algorithms (2017), Ruder [pdf](https://arxiv.org/abs/1609.04747)
+* An Overview of Multi-Task Learning in Deep Neural Networks (2017), Sebastian Ruder [pdf](https://arxiv.org/abs/1706.05098)
+
