@@ -55,9 +55,9 @@
 
 ### Others
 
-These are good papers to read and does not need summarization.
+These are good papers to read, they are summaries by themselves.
 
 * A guide to convolution arithmetic for deep learning (2016), Vincent Dumoulin, Francesco Visin [pdf](https://arxiv.org/abs/1603.07285)
 * An overview of gradient descent optimization algorithms (2017), Ruder [pdf](https://arxiv.org/abs/1609.04747)
 * An Overview of Multi-Task Learning in Deep Neural Networks (2017), Sebastian Ruder [pdf](https://arxiv.org/abs/1706.05098)
-
+* A Review on Deep Learning Techniques Applied to Semantic Segmentation [pdf](https://arxiv.org/abs/1704.06857)
