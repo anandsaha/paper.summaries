@@ -29,13 +29,14 @@
 
 ### Object Detection
 
-* `TODO` You only look once: Unified, real-time object detection (2016), J. Redmon et al.
+* `TODO` YOLO9000: Better, Faster, Stronger (2016), J. Redmon et.al. 
+* [You only look once: Unified, real-time object detection (2015), J. Redmon et al.](summaries/Yolo.md)
 * `TODO` Fully convolutional networks for semantic segmentation (2015), J. Long et al.
 * `TODO` Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015), S. Ren et al.
 * `TODO` Fast R-CNN (2015), R. Girshick
-* `TODO` Rich feature hierarchies for accurate object detection and semantic segmentation (2014), R. Girshick et al.
 * `TODO` Spatial pyramid pooling in deep convolutional networks for visual recognition (2014), K. He et al.
 * `TODO` Semantic image segmentation with deep convolutional nets and fully connected CRFs, L. Chen et al.
+* `TODO` Rich feature hierarchies for accurate object detection and semantic segmentation (2013), R. Girshick et al.
 * `TODO` Learning hierarchical features for scene labeling (2013), C. Farabet et al.
 
 ### Image Segmentation
@@ -59,5 +60,5 @@ These are good papers to read, they are summaries by themselves.
 
 * A guide to convolution arithmetic for deep learning (2016), Vincent Dumoulin, Francesco Visin [pdf](https://arxiv.org/abs/1603.07285)
 * An overview of gradient descent optimization algorithms (2017), Ruder [pdf](https://arxiv.org/abs/1609.04747)
-* An Overview of Multi-Task Learning in Deep Neural Networks (2017), Sebastian Ruder [pdf](https://arxiv.org/abs/1706.05098)
+* An overview of Multi-Task Learning in Deep Neural Networks (2017), Sebastian Ruder [pdf](https://arxiv.org/abs/1706.05098)
 * A Review on Deep Learning Techniques Applied to Semantic Segmentation [pdf](https://arxiv.org/abs/1704.06857)
