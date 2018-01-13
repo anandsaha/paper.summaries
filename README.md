@@ -21,7 +21,7 @@
 * `TODO` Going deeper with convolutions (2015), C. Szegedy et al.
 * `TODO` Very deep convolutional networks for large-scale image recognition (2014), K. Simonyan and A. Zisserman
 * `TODO` Return of the devil in the details: delving deep into convolutional nets (2014), K. Chatfield et al.
-* `TODO` OverFeat: Integrated recognition, localization and detection using convolutional networks (2013), P. Sermanet et al.
+* [OverFeat: Integrated recognition, localization and detection using convolutional networks (2013), P. Sermanet et al.](summaries/Overfeat.md)
 * `TODO` Maxout networks (2013), I. Goodfellow et al.
 * [Network in network (2013), M. Lin et al.](http://teleported.in/posts/network-in-network/)
 * `TODO` ImageNet classification with deep convolutional neural networks (2012), A. Krizhevsky et al.
@@ -34,6 +34,7 @@
 * `TODO` Fully convolutional networks for semantic segmentation (2015), J. Long et al.
 * `TODO` Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015), S. Ren et al.
 * `TODO` Fast R-CNN (2015), R. Girshick
+* `TODO` SSD: Single Shot MultiBox Detector (2015), Wei Liu et.al.
 * `TODO` Spatial pyramid pooling in deep convolutional networks for visual recognition (2014), K. He et al.
 * `TODO` Semantic image segmentation with deep convolutional nets and fully connected CRFs, L. Chen et al.
 * `TODO` Rich feature hierarchies for accurate object detection and semantic segmentation (2013), R. Girshick et al.
